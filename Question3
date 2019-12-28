@@ -1,0 +1,13 @@
+package day_2;
+
+public class Question3 {
+
+	public static void main(String[] args) {
+		System.out.println("1\n2\n3\n4\n5\n6\n7\n8\n9\n10"); //This code is the one line code shortest
+		/*But we can also make it longer
+		 * System.out.println("1")
+		 * System.out.println("2")
+		 * System.out.println("3") like that
+		 */
+	}
+}
