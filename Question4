@@ -1,0 +1,12 @@
+package day_2;
+
+public class Question4 { //5
+    /* 	} 1
+		public static void main(String[] arg) { 2
+		} 3
+		System.out.println("Q"); 4
+		public class Main { 5 */
+	public static void main(String[] args) { //2
+		System.out.println("Q"); //4
+	} //1
+} //3
